@@ -7,10 +7,10 @@ years. To recognise people having diabetes, machine learning
 earlier diagnosis and improved disease treatment. This study 
 reviews and assesses a variety of cutting-edge methods for 
 predicting and detecting diabetes. In order to identify 
-diabetes early, supervised learning methods, including NBayes, SVM, and decision trees, have been used. In this area, 
+diabetes early, supervised learning methods, including Nave Bayes, SVM, and decision trees, have been used. In this area, 
 decision trees have demonstrated promise, and combining 
 them with unsupervised methods like PCA and K-Mean can 
 increase prediction precision and accuracy. Additionally 
 showing promise in effectively recognising and analysing 
-diabetes are K-Mean and SVM. Furthermore, deep learningbased algorithms like ANN and CNN can improve diabetic 
+diabetes are K-Mean and SVM. Furthermore, deep learning based algorithms like ANN and CNN can improve diabetic 
 patient outcomes.
